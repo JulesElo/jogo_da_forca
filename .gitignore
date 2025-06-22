@@ -1,0 +1,34 @@
+# Arquivos gerados por compiladores C/C++
+*.o    # Objetos
+*.out  # Saídas de execução (como a.out)
+*.exe  # Executáveis Windows
+*.dll
+*.so
+*.dylib
+
+# Nome do executável
+forca_game
+
+# Arquivos de depuração
+*.dSYM/
+*.log
+
+# Arquivos de backup
+*~
+*.bak
+*.swp
+
+# Arquivos temporários
+*.tmp
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dados sensíveis ou caches
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
